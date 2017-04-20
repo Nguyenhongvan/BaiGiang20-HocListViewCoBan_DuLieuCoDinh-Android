@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BaiGiang20-HocListViewCoBan_DuLieuCoDinh</string>
+    <!-- Bước 1: Xác định được nguồn dữ liệu có kiểu gì (ở đây là kiểu chuỗi) -->
+    <string-array name="arrThu">
+        <item>Thứ 2</item>
+        <item>Thứ 3</item>
+        <item>Thứ 4</item>
+        <item>Thứ 5</item>
+        <item>Thứ 6</item>
+        <item>Thứ 7</item>
+        <item>Chủ nhật</item>
+    </string-array>
+</resources>
